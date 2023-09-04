@@ -1,0 +1,24 @@
+       .container-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+        form {
+            max-width: 500px;
+            width: 100%;
+        }
+        
+         .input-field{
+            margin-bottom: 0px;
+         }
+         .btns{
+            margin: 20px 0px 20px 0px;
+         }
+         label{
+            font-size: 20px!important;
+         }
+         span{
+            font-size: 20px!important;
+         }
